@@ -16,6 +16,10 @@
   }
 }
 
+a.active.link {
+  font-weight: 800;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
